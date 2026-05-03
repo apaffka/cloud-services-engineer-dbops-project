@@ -1,4 +1,4 @@
-# dbops-project
+# dbops-project 
 ### 1. Подключение к PostgreSQL
 ```
 psql -h localhost -p 5432 -U user -d user
